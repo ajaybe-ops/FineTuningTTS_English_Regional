@@ -1,0 +1,8 @@
+
+### 2. Badges
+
+You can add badges for build status, license, or other metrics. Here’s how you can format it in your `README.md`:
+
+```markdown
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)

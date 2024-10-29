@@ -1,0 +1,13 @@
+# Contributing to This Project
+
+Thank you for considering contributing to this project! Here are some guidelines to help you get started:
+
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+## Code of Conduct
+Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) while contributing.

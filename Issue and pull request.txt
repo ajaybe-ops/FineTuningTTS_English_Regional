@@ -1,0 +1,10 @@
+## Issues and Pull Requests
+
+If you encounter any issues, please open an issue on this repository. For any feature requests or enhancements, feel free to create a pull request after discussing it with us.
+
+### Reporting Issues
+- Navigate to the [Issues](https://github.com/your_username/your_repository/issues) tab to report an issue.
+
+### Making Pull Requests
+- Make sure your code passes all tests before submitting.
+- Describe your changes clearly in the pull request.
